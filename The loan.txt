@@ -1,0 +1,4 @@
+Name:ali khaled ali  loan: 500  Month of receipt :1   Month delivery :12
+Name:omar mohamed ibrahem   loan: 600  Month of receipt :4   Month delivery :5
+Name:khaled mohamed ahmed   loan: 600000  Month of receipt :7   Month delivery :8
+Name:aly khaled aly   loan: 900  Month of receipt :7   Month delivery :4
